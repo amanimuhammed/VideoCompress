@@ -69,13 +69,11 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/UniversalBotsUpdate')
+                    InlineKeyboardButton('👨‍💻 Developer', url='https://t.me/Amani_m_h_d')
                 ],
                 [
-                    InlineKeyboardButton('Support Group', url='https://t.me/UniversalBotsSupport')
-                ],
-                [
-                    InlineKeyboardButton('Developer', url='https://t.me/Technical_Jigar'), # Bloody Thief, Don't Become a Developer by Stealing other's Codes & Hard Works
+                    InlineKeyboardButton('Updates Channel 📌', url='http://t.me/my_test_botz'),
+                    InlineKeyboardButton('Other Bots 🤖', url='http://t.me/my_test_botz/47') 
                 ]
             ]
         ),
